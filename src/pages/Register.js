@@ -51,7 +51,7 @@ function Register() {
     if (user) {
       setTimeout(() => {
         navigate('/');
-      }, 3000);
+      }, 1000);
     }
   }, [user]);
   
