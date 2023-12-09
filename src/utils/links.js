@@ -28,6 +28,7 @@ const links = [
     path: 'profile',
     icon: <ImProfile />,
   },
+
 ];
 
 export default links;
